@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Открыть адрес на GoogleMap</string>
+    <string name="textButton">Ищем</string>
+    <string name="textCheckbox">Поиск по названию места</string>
+    <string name="textPlace">Введите адрес:</string>
+    <string name="textLatitude">Введите широту:</string>
+    <string name="textLongitude">Введите долготу:</string>
+    <string name="textPacle">Moscow</string>
+    <string name="textEditLatitude">55.704968</string>
+    <string name="textEditLongitude">37.625206</string>
+</resources>
