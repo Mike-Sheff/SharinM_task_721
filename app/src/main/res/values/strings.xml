@@ -5,7 +5,9 @@
     <string name="textPlace">Введите адрес:</string>
     <string name="textLatitude">Введите широту:</string>
     <string name="textLongitude">Введите долготу:</string>
-    <string name="textPacle">Moscow</string>
-    <string name="textEditLatitude">55.704968</string>
-    <string name="textEditLongitude">37.625206</string>
+    <string name="textEditPlace">Санкт-Петербург</string>
+    <string name="textEditLatitude">59.939400</string>
+    <string name="textEditLongitude">30.315707</string>
+    <string name="textSearchCoordinates">geo:%s,%s</string>
+    <string name="textSearchPlace">geo:?q=%s</string>
 </resources>
